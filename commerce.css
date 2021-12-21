@@ -1,0 +1,75 @@
+.position{
+ position: relative;
+ top: 50px;
+ left: 80px;
+ 
+}
+.bg{
+    position: relative;
+    left: 100px;
+    height: 300px;
+}
+.bg2{
+position: relative;
+height: 150px;
+width: 150px;
+top: -70px;
+}
+.khan,.joe h3,.toe h5{
+
+    display: flex;
+    justify-content: center;
+}
+.home{
+    padding-left: 80px;
+    padding-bottom: 15px;
+}
+.emon{
+    position: relative;
+left: 140px;
+   
+}
+
+.see{
+    position:  absolute;
+  right: 3px;
+  text-decoration: none;
+  color: rgb(255, 82, 19);
+   
+
+}
+.laptop{
+    margin-top:90px;
+}
+
+
+.man{ 
+   
+   margin-top: 50px;
+
+    display: flex;
+    justify-content: center;
+   
+  
+}
+.nam{
+    
+    height: 6px;
+    width: 50px;
+    border-radius: 7px;
+    background-image:linear-gradient(35deg, orange, yellow );
+}
+.moon{
+    margin-top: 20px;
+}
+.boy{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.wid{
+    width: 75%;
+}
+
+
